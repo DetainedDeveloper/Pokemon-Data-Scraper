@@ -1,4 +1,4 @@
-# Pokemon-Data-Scraper
+# Pokemon Data Scraper
 
 I wanted to make different Pokemon projects, so I scraped the data. [Here](https://github.com/DetainedDeveloper/Pokemon-Data-Scraper/tree/main/pokedex_raw) it is, have fun!
 
